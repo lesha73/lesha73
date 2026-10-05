@@ -1,16 +1,43 @@
-## Hi there 👋
+# Alexey Chistyakov
 
-<!--
-**lesha73/lesha73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cross-chain infrastructure · Routing · Automation · Web3 tooling
 
-Here are some ideas to get you started:
+Independent builder focused on blockchain infrastructure, cross-chain execution, automation and developer tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+
+- **X Router** — cross-chain route discovery and execution layer
+- **X Automation** — condition-based blockchain automation
+- **ZHChain Swap Hub** — on-chain swap and liquidity infrastructure
+- **ZHChain ↔ EVM Bridge** — cross-chain asset infrastructure
+- **QLAQSON** — blockchain messenger and identity-oriented Web3 communication
+
+---
+
+## 🧩 What I'm Building
+
+I’m working on infrastructure that connects swaps, bridges and execution providers through a unified routing and automation layer.
+
+The goal is to make cross-chain execution easier to discover, compare and automate without locking the system to a single liquidity source or blockchain.
+
+---
+
+## 🛠 Tech Stack
+
+`JavaScript` · `Node.js` · `Solidity` · `EVM` · `JSON-RPC`  
+`Cloudflare Workers` · `D1` · `REST APIs` · `PowerShell`
+
+---
+
+## 🔬 Areas of Interest
+
+Cross-chain routing · Blockchain automation · Interoperability  
+Developer tooling · Web3 infrastructure · Smart contract systems
+
+---
+
+## 🤝 Open To
+
+Grants · Accelerators · Technical collaborations · Infrastructure partnerships
